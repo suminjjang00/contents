@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-config.dtd">
+	<configuration>
+	<typeAliases>
+		<!-- <package name="org.zerock.vo"/> 패키지명으로 명명했다가 typeAlias 로 바꿈.	 -->
+		<package name="org.zerock.vo"/>
+		
+	</typeAliases>
+	
+	</configuration>
